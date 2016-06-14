@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_8aa085fa2c0b040374220ee6208fd5126d950962.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_6d21ebb57f7a4cdbd0188f9b186b449bad74346b.jar" />
+    </item>
+    <item
+        jar="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_deff756374fbff9a283c1667e04305ee1a473df3.jar" />
+    </item>
+    <item
+        jar="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_de2e5209e77d53ac22e6cc13c4edf817f7f39c3e.jar" />
+    </item>
+    <item
+        jar="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_0e71bc09d12fc20832ab9a6efc0342cf79ddd527.jar" />
+    </item>
+    <item
+        jar="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/johannes/ownCloud/Projects/Android/Hanoi_XLAB/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_a3e0136bdaaa376526e67e1cd7d4191945fc9cb3.jar" />
+    </item>
+
+</items>
