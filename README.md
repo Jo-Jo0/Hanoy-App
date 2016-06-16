@@ -1,2 +1,2 @@
 # Hanoy-App
-This is an Android App to play the towers of Hanoy. Initial Created during an Workshop at XLAB-Göttingen (DE)
+This is an Android App to play the Game "Towers of Hanoy". Initial Created at an Workshop at XLAB Göttingen (Germany) and modifiedy by me.

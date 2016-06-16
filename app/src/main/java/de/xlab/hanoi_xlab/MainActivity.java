@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         restart.setOnClickListener(clickListener);
 
         for(int i = 1; i < anzScheiben + 1; i++){
-            ImageView disc = createDisc((i*100),(100), Color.MAGENTA);
+            ImageView disc = createDisc((i*100),(100), color(i));
             stick_1.addView(disc);
         }
 
@@ -131,5 +131,22 @@ public class MainActivity extends Activity {
         disc.setImageDrawable(discShape);
         disc.setTag(breite);
         return disc;
+    }
+
+    // Funktion zur Auswahl der Farbe der Spielsteine
+
+    int color(int i) {
+        switch(i) {
+            case 1: return Color.BLUE;
+            case 2: return Color.CYAN;
+            case 3: return Color.DKGRAY;
+            case 4: return Color.GRAY;
+            case 5: return Color.GREEN;
+            case 6: return Color.LTGRAY;
+            case 7: return Color.MAGENTA;
+            case 8: return Color.RED;
+            case 9: return Color.YELLOW;
+            default:return Color.BLACK;
+        }
     }
 }
